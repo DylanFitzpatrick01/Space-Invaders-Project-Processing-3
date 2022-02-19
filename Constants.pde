@@ -1,0 +1,9 @@
+final int SCREENX = 500;
+final int SCREENY = 500;
+final int IMAGEWIDTH = 20;
+final int IMAGEHEIGHT = 20;
+final int MARGIN = 10;
+final int PADDLEWIDTH = 50;
+final int PADDLEHEIGHT = 15;
+final int BULLETSIZE=10;
+final int BULLETSPEED=3;
